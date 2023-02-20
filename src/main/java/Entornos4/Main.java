@@ -14,7 +14,7 @@ public class Main {
 
         try {
 
-            NuevoMetodo(cesta, 200, 100);
+            NuevoMetodo(cesta, 300, 100);
 
         } catch (Exception e) {
 
